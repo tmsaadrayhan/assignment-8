@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Operator",
+        "description": "Alteration of R Buttock with Autol Sub, Perc Endo Approach",
+        "salary": 3200
+    },
+    {
+        "id": 2,
+        "title": "Staff Scientist",
+        "description": "Replace of L Foot Subcu/Fascia with Autol Sub, Open Approach",
+        "salary": 4500
+    },
+    {
+        "id": 3,
+        "title": "General Manager",
+        "description": "Bypass Cereb Vent to Pleural Cav w Autol Sub, Perc",
+        "salary": 7800
+    },
+    {
+        "id": 4,
+        "title": "Recruiter",
+        "description": "Occlusion of R Foot Vein with Intralum Dev, Open Approach",
+        "salary": 8100
+    },
+    {
+        "id": 5,
+        "title": "Social Worker",
+        "description": "Bypass L Com Iliac Art to R Com Ilia w Autol Vn, Open",
+        "salary": 3200
+    },
+    {
+        "id": 6,
+        "title": "Sales Representative",
+        "description": "Extirpation of Matter from R Verteb Vein, Perc Endo Approach",
+        "salary": 3000
+    },
+    {
+        "id": 7,
+        "title": "Cost Accountant",
+        "description": "Plain Radiography of Uterus & Fallopian using L Osm Contrast",
+        "salary": 3800
+    },
+    {
+        "id": 8,
+        "title": "Account Representative I",
+        "description": "Removal of Synth Sub from L Thumb Phalanx, Perc Approach",
+        "salary": 7500
+    },
+    {
+        "id": 9,
+        "title": "Research Nurse",
+        "description": "CT Scan of R Toe using H Osm Contrast",
+        "salary": 5300
+    },
+    {
+        "id": 10,
+        "title": "Food Chemist",
+        "description": "Release Adenoids, Percutaneous Approach",
+        "salary": 3500
+    },
+    {
+        "id": 11,
+        "title": "Software Engineer II",
+        "description": "Insertion of Infusion Dev into R Temporal Art, Open Approach",
+        "salary": 7100
+    },
+    {
+        "id": 12,
+        "title": "Geological Engineer",
+        "description": "Release Lung Lingula, Endo",
+        "salary": 7900
+    },
+    {
+        "id": 13,
+        "title": "Budget/Accounting Analyst IV",
+        "description": "Bypass R Int Iliac Art to B Int Ilia w Synth Sub, Perc Endo",
+        "salary": 6800
+    },
+    {
+        "id": 14,
+        "title": "Social Worker",
+        "description": "Insertion of Ext Fix into L Up Femur, Open Approach",
+        "salary": 7500
+    },
+    {
+        "id": 15,
+        "title": "Associate Professor",
+        "description": "Drainage of Left Internal Jugular Vein, Perc Endo Approach",
+        "salary": 8000
+    },
+    {
+        "id": 16,
+        "title": "Health Coach III",
+        "description": "Removal of Drain Dev from R Temporomandib Jt, Open Approach",
+        "salary": 5900
+    },
+    {
+        "id": 17,
+        "title": "Speech Pathologist",
+        "description": "Inspection of Right Elbow Joint, Perc Endo Approach",
+        "salary": 7400
+    },
+    {
+        "id": 18,
+        "title": "Senior Quality Engineer",
+        "description": "Insertion of Rigid Plate Fix into Sternum, Perc Approach",
+        "salary": 4900
+    },
+    {
+        "id": 19,
+        "title": "Systems Administrator I",
+        "description": "Restriction of L Renal Art with Extralum Dev, Open Approach",
+        "salary": 5200
+    },
+    {
+        "id": 20,
+        "title": "Systems Administrator III",
+        "description": "Drainage of Right Scapula, Open Approach",
+        "salary": 6500
+    }
+]
