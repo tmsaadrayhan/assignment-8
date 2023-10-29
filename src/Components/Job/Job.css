@@ -1,9 +1,8 @@
 .card_style{
-    width: 250px;
+    width: 100px;
     border-radius: 15px;
-
 }
-.job-height{
+.job-size{
     height: 200px;
 }
 .card-first-half{

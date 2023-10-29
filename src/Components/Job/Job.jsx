@@ -7,8 +7,8 @@ const Job = ({ job }) => {
     return (
         <div>
             <div className='job m-3'>
-                <div className="card card_style shadow">
-                    <div className="job-height card-body">
+                <div className="card_style card shadow">
+                    <div className="job-size card-body">
                         <div className="card-first-half">
                             <h3 className="card-title">{job.title}</h3>
                             <p className="card-text"> Salary: ${job.salary}</p>
