@@ -8,7 +8,7 @@ const Jobs = () => {
     
     return (
         <div className="d-flex justify-content-center">
-            <div className='job-container-width d-flex flex-wrap justify-content-center'>
+            <div className='d-flex flex-wrap justify-content-center'>
                 {
                     jobs.map(job => <Job key={job.id} job={job}></Job>)
                 }

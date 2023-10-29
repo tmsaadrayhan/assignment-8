@@ -30,7 +30,8 @@ const Statistics = () => {
         },
     ];
     return (
-        <div className='d-flex justify-content-center'>
+        <div className='d-flex flex-column mb-3 justify-content-center'>
+            <h1>Assignment Marks</h1>
             <Chart assignments={assignments}></Chart>
         </div>
     );
