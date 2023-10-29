@@ -1,0 +1,17 @@
+.card_style{
+    width: 300px;
+    border-radius: 15px;
+
+}
+.job-height{
+    height: 200px;
+}
+.card-first-half{
+    height: 150px;
+}
+.card-second-half{
+    height: 50px;
+}
+.card {
+    border-radius: 0px;
+}

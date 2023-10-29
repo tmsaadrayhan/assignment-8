@@ -14,7 +14,7 @@ const Job = ({ job }) => {
                             <p className="card-text"> Salary: ${job.salary}</p>
                         </div>
                         <div className="d-flex card-second-half justify-content-center p-2">
-                            <Link className="btn btn-primary d-flex align-self-end" to={`/job/${job.id}`} state={ job }>View job</Link>
+                            <Link className="btn btn-dark d-flex align-self-end" to={`/job/${job.id}`} state={ job }>View job</Link>
                             
                         </div>
                     </div>

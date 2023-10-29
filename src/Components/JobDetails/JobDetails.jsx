@@ -13,7 +13,7 @@ const JobDetails = () => {
             <h1>{title}</h1>
             <p>{description}</p>
             <h3>Salary: ${salary}</h3>
-            <button onClick={()=>addToDb(job)}type="button" className="btn btn-primary mt-3">Apply</button>
+            <button onClick={()=>addToDb(job)}type="button" className="btn btn-dark mt-3">Apply</button>
             <Toaster/>
         </div>
     );

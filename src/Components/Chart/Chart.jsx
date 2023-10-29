@@ -31,8 +31,8 @@ const Chart = ({ assignments }) => {
                     type="monotone"
                     dataKey="mark"
                     stackId="1"
-                    stroke="#8884d8"
-                    fill="#8884d8"
+                    stroke="#363636"
+                    fill="#363636"
                 />
             </AreaChart>
         </div>
